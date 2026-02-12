@@ -14,7 +14,10 @@
       "author": {
         "name": "Gabi Fratica"
       },
-      "source": "github:remember-md/remember",
+      "source": {
+        "source": "github",
+        "repo": "remember-md/remember"
+      },
       "category": "productivity",
       "homepage": "https://github.com/remember-md/remember"
     }
