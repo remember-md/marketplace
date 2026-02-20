@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "remember-md",
-  "description": "Remember — Extended Second Brain plugins for Claude Code",
+  "description": "Remember — Second brain plugin for OpenClaw and Claude Code",
   "owner": {
     "name": "Gabi Fratica",
     "email": "gabriel@codez.ro"
@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "remember",
-      "description": "Second Brain plugin for Claude Code — PARA + Zettelkasten in Obsidian-native markdown",
-      "version": "1.5.1",
+      "description": "Second brain plugin for OpenClaw and Claude Code — one brain, every AI tool",
+      "version": "2.0.0",
       "author": {
         "name": "Gabi Fratica"
       },
